@@ -39,7 +39,7 @@ while ($row = $stmt->fetch(PDO::FETCH_ASSOC)) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/style/adresse_liv.css">
+    <link rel="stylesheet" href="/style/Adresse_liv.css">
     <title>Addrese livraison</title>
 </head>
 
